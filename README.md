@@ -6,9 +6,9 @@
 </h3> 
 <p align="center">
 	<a href="https://github.com/ITSUREN/get_closest/releases/latest">
-		<img alt="Releases" src="https://img.shields.io/github/v/release/ITSURENXD/get_closest?style=for-the-badge&logo=github&color=F2CDCD&logoColor=D9E0EE&labelColor=302D41"/></a>
+		<img alt="Releases" src="https://img.shields.io/github/v/release/ITSUREN/get_closest?style=for-the-badge&logo=github&color=F2CDCD&logoColor=D9E0EE&labelColor=302D41"/></a>
 	<a href="https://github.com/ITSUREN/get_closest/issues">
-		<img alt="Issues" src="https://img.shields.io/github/issues/ITSURENXD/get_closest?style=for-the-badge&logo=gitbook&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41"></a>
+		<img alt="Issues" src="https://img.shields.io/github/issues/ITSUREN/get_closest?style=for-the-badge&logo=gitbook&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41"></a>
 </p>
 &nbsp;
       
@@ -43,4 +43,5 @@ Get Closest is released under the [MIT license](./LICENSE), which grants the fol
 - Private use
 
 &nbsp;
+
 
