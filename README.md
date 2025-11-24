@@ -5,9 +5,9 @@
 	<img src="https://github.com/ITSURENXD/Graphics/blob/bd657f55d4a8417d32914cc0bab738200310085a/NOTES/Resources/transparent.png" height="30" width="0px"/>
 </h3> 
 <p align="center">
-	<a href="https://github.com/ITSURENXD/get_closest/releases/latest">
+	<a href="https://github.com/ITSUREN/get_closest/releases/latest">
 		<img alt="Releases" src="https://img.shields.io/github/v/release/ITSURENXD/get_closest?style=for-the-badge&logo=github&color=F2CDCD&logoColor=D9E0EE&labelColor=302D41"/></a>
-	<a href="https://github.com/ITSURENXD/get_closest/issues">
+	<a href="https://github.com/ITSUREN/get_closest/issues">
 		<img alt="Issues" src="https://img.shields.io/github/issues/ITSURENXD/get_closest?style=for-the-badge&logo=gitbook&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41"></a>
 </p>
 &nbsp;
@@ -27,7 +27,7 @@
 
 Thanks for making this project possible:
 
-| <img alt="Issues" src="https://avatars.githubusercontent.com/u/42739895?v=4" width="25" height="25"> | <a href="https://github.com/ITSURENXD">Saugat Tamang</a> |
+| <img alt="Issues" src="https://avatars.githubusercontent.com/u/42739895?v=4" width="25" height="25"> | <a href="https://github.com/ITSUREN">Saugat Tamang</a> |
 |----------------|----------------|
 |<img alt="Issues" src="https://avatars.githubusercontent.com/u/118673128?v=4" width="25" height="25"> | <a href="https://github.com/hang-kulung"> Ninamhang Kulung</a> |
 
